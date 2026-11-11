@@ -17,6 +17,7 @@
 
 | 分类 | 仓库 | 说明 |
 | :-- | :-- | :-- |
+| **系统原型** | [APC](https://github.com/Ruri-Ichigyo/APC) | Adaptive Prompt Compiler — 跨模型 Prompt 编译、评测与优化 · Python + Spring Boot + LangGraph |
 | **课程与笔记** | [AI-large-model-application-development](https://github.com/Ruri-Ichigyo/AI-large-model-application-development) | 大模型应用开发课程笔记 |
 | | [Database_notebook](https://github.com/Ruri-Ichigyo/Database_notebook) | 数据库课程笔记（LaTeX） |
 | | [Watermelon-Book-Notes](https://github.com/Ruri-Ichigyo/Watermelon-Book-Notes) | 《机器学习》西瓜书学习笔记 |
